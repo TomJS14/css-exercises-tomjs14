@@ -1,0 +1,19 @@
+.redbox{
+    background-color: lightcoral
+}
+
+.large_text {
+    font-size: 24px;
+}
+
+#even_2 {
+   color: blue;
+   font-size: 36px;
+}
+
+#even_4 {
+    background-color: rgb(11, 177, 11);
+    font-size: 24px;
+    font-weight: bold;
+ }
+ 
